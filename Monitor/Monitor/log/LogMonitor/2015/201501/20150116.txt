@@ -1,0 +1,64 @@
+
+ 
+记录时间：2015-01-16 14:06:00,852 
+线程ID:[13] 
+日志级别：  INFO  
+跟踪描述：
+            Action执行时间监控：
+            ControllerName：HomeController
+            ActionName:Index
+            开始时间：2015/1/16 14:06:00
+            结束时间：2015/1/16 14:06:00
+            总 时 间：0.0061823秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-16 14:06:02,597 
+线程ID:[13] 
+日志级别：  INFO  
+跟踪描述：
+            View视图生成时间监控：
+            ControllerName：HomeController
+            ViewName:Index
+            开始时间：2015/1/16 14:06:00
+            结束时间：2015/1/16 14:06:02
+            总 时 间：1.7371138秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-16 14:06:16,630 
+线程ID:[14] 
+日志级别：  INFO  
+跟踪描述：
+            Action执行时间监控：
+            ControllerName：HomeController
+            ActionName:Form
+            开始时间：2015/1/16 14:06:16
+            结束时间：2015/1/16 14:06:16
+            总 时 间：0.0010362秒
+            Form表单数据：_name=eric&_age=20
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-16 14:06:16,685 
+线程ID:[14] 
+日志级别：  INFO  
+跟踪描述：
+            View视图生成时间监控：
+            ControllerName：HomeController
+            ViewName:Form
+            开始时间：2015/1/16 14:06:16
+            结束时间：2015/1/16 14:06:16
+            总 时 间：0.055462秒
+            Form表单数据：_name=eric&_age=20
+            URL参数：
+                    
+ 
